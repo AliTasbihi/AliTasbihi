@@ -12,15 +12,34 @@ As Benjamin Franklin once said, "An investment in knowledge pays the best intere
 
 I also believe, as Jocko Willink says, that "Discipline Equals Freedom," and I bring a disciplined and focused approach to all of my work.
 
-## Contact with me!
 
-<div>
-  <a href="https://www.linkedin.com/in/romanilichenko/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>
-  </a>
+## :handshake: Connect with me!
+
+<div align=center>
+    <a href="https://www.linkedin.com/in/gmartinezayuso/">
+    <!-- Linkedin -->
+        <!-- <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-germa89-%230A66C2?style=for-the-badge&logo=linkedin&labelColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fgmartinezayuso%2F"> -->
+        <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fgmartinezayuso%2F">
+    </a>
+    <a href="https://github.com/AliTasbihi">
+    <!-- Github -->
+        <!-- <img alt="Github" src="https://img.shields.io/badge/GitHub-germa89-%23181717?style=for-the-badge&logo=github&logoColor=%23181717&labelColor=white&link=https%3A%2F%2Fwww.github.com%2Fgerma89"> -->
+        <img alt="Github" src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white&link=https%3A%2F%2Fwww.github.com%2Fgerma89">
+    </a>
+    <a href="mailto:alitasbihi13@gmail.com">
+    <!-- GMail -->
+        <!-- <img alt="Gmail" src="https://img.shields.io/badge/GMail-Email%20me!-%23EA4335?style=for-the-badge&logo=gmail&logoColor=%23EA4335&labelColor=white&link=mailto%3Agermanmartinezayuso%40gmail.com"> -->
+        <img alt="Gmail" src="https://img.shields.io/badge/GMail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white&link=mailto%3Agermanmartinezayuso%40gmail.com">
+    </a>
+    <a href="https://scholar.google.co.uk/citations?user=1MqmJ0sAAAAJ">
+    <!-- Google scholar -->
+        <!-- <img alt="Google scholar" src="https://img.shields.io/badge/Scholar-Dr%20German%20Martinez--Ayuso-%234285F4?style=for-the-badge&logo=googlescholar&labelColor=white&link=https%3A%2F%2Fscholar.google.co.uk%2Fcitations%3Fuser%3D1MqmJ0sAAAAJ"> -->
+        <img alt="Google scholar" src="https://img.shields.io/badge/Scholar-%234285F4?style=for-the-badge&logo=googlescholar&labelColor=%234285F4&logoColor=white&link=https%3A%2F%2Fscholar.google.co.uk%2Fcitations%3Fuser%3D1MqmJ0sAAAAJ">
+    </a>
 </div>
 
-## Software languages
+
+## :computer: Software languages
 
 <div>
   <img src="https://github.com/AliTasbihi/AliTasbihi/blob/main/logos/SoftwareLenguages/Logo_C_sharp.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
@@ -28,7 +47,7 @@ I also believe, as Jocko Willink says, that "Discipline Equals Freedom," and I b
   <img src="https://github.com/AliTasbihi/AliTasbihi/blob/main/logos/SoftwareLenguages/latex-original.svg" title="latex" alt="latex" width="40" height="40"/>&nbsp;
 </div>
 
-## Software tools
+## :hammer_and_wrench: Software tools
 
 <div>
   <!--  -->
