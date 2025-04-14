@@ -23,12 +23,9 @@ I also believe, as Jocko Willink says, that "Discipline Equals Freedom," and I b
 ## Software languages
 
 <div>
-  <img src="https://github.com/RomanIlchenko1308/RomanIlchenko1308/blob/main/logos/SoftwareLenguages/Cplusplus.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/RomanIlchenko1308/RomanIlchenko1308/blob/main/logos/SoftwareLenguages/python.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/RomanIlchenko1308/RomanIlchenko1308/blob/main/logos/SoftwareLenguages/html5.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/RomanIlchenko1308/RomanIlchenko1308/blob/main/logos/SoftwareLenguages/css3.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/RomanIlchenko1308/RomanIlchenko1308/blob/main/logos/SoftwareLenguages/javascript.svg" title="JS" alt="JS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/RomanIlchenko1308/RomanIlchenko1308/blob/main/logos/SoftwareLenguages/typescript.svg" title="TS" alt="TS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/AliTasbihi/AliTasbihi/blob/main/logos/SoftwareLenguages/Logo_C_sharp.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/AliTasbihi/AliTasbihi/blob/main/logos/SoftwareLenguages/python.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/AliTasbihi/AliTasbihi/blob/main/logos/SoftwareLenguages/latex-original.svg" title="latex" alt="latex" width="40" height="40"/>&nbsp;
 </div>
 
 ## Software tools
