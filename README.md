@@ -58,16 +58,3 @@ Since 2024, I’ve been working in R&D, focusing on research projects that combi
   <img src="https://github.com/AliTasbihi/AliTasbihi/blob/main/logos/SoftwareTools/MatplotLib.svg" title="MatplotLib" alt="MatplotLib" width="40" height="40"/>&nbsp;
   <img src="https://github.com/AliTasbihi/AliTasbihi/blob/main/logos/SoftwareTools/NumPy.svg" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp;
 </div>
-
-
-## GitHub statistics
-
-<div align=center>
-  <div align=center>
-      <img width=47.0% src="https://github-readme-stats.vercel.app/api?username=RomanIlchenko1308&show_icons=true&theme=slateorange&bg_colo=36393F"/>
-      <img width=49.9% src="http://github-readme-streak-stats.herokuapp.com?user=RomanIlchenko1308&theme=slateorange&hide_border=false&bg_colo=36393F"/>
-  </div>
-  <div>
-    <img align="center" width=97.3% src="https://github-readme-activity-graph.vercel.app/graph?username=RomanIlchenko1308&count_private=true&theme=one-dark&hide_border=true&radius=5&bg_color=36393F"/>
-  </div>
-</div>
