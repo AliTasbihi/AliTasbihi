@@ -1,18 +1,13 @@
 # Hi there 👋, I'm Ali
 
-As an engineer with a passion for both Mechanical and Software Engineering, I bring a unique combination of skills to the table.
-
-As a Mechanical Engineer with 5+ years of experience in the design and manufacturing of automotive components, I am passionate about leveraging my skills in data visualization and web development to optimize the performance of complex mechanical systems. 
-
-I have 3+ years of experience using Python and JavaScript to develop GUI and web applications for data analysis and visualization. I also have experience using C and C++ to speed up FEA simulations and optimize the performance of mechanical systems.
-
-My achievements include leading a team of engineers in the successful completion of a major project and receiving recognition for my contributions to product innovation. 
-
-As Benjamin Franklin once said, "An investment in knowledge pays the best interest," and I believe that continued learning and growth are key to success in any field. 
-
-I also believe, as Jocko Willink says, that "Discipline Equals Freedom," and I bring a disciplined and focused approach to all of my work.
 
 
+Hello! My name is [Ali Tasbihi](https:www.linkedin.com/in/alitasbihi), and I’m a software developer and R&D engineer at the [Iranian Classification Society (ICS)](https://www.ics.org.ir/). I started in IT, developing backend systems in C# with experience in Windows Services, SQL Server, and networking.
+
+Since 2024, I’ve been working in R&D, focusing on research projects that combine Python programming, data analysis, and engineering. I'm passionate about using software to solve real-world industrial problems, especially in simulation and automation.
+## :construction_worker_man: My resume
+* You can access my resume, in the following GH page! :arrow_right: [Ali's resume](https://alitasbihi.github.io/resume/)
+  
 ## :handshake: Connect with me!
 
 <div align=center>
