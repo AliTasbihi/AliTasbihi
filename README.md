@@ -31,7 +31,7 @@ I also believe, as Jocko Willink says, that "Discipline Equals Freedom," and I b
         <!-- <img alt="Gmail" src="https://img.shields.io/badge/GMail-Email%20me!-%23EA4335?style=for-the-badge&logo=gmail&logoColor=%23EA4335&labelColor=white&link=mailto%3Agermanmartinezayuso%40gmail.com"> -->
         <img alt="Gmail" src="https://img.shields.io/badge/GMail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white&link=mailto%3Agermanmartinezayuso%40gmail.com">
     </a>
-    <a href="https://scholar.google.co.uk/citations?user=1MqmJ0sAAAAJ">
+    <a href="https://scholar.google.com/citations?user=p5phFrUAAAAJ&hl=en">
     <!-- Google scholar -->
         <!-- <img alt="Google scholar" src="https://img.shields.io/badge/Scholar-Dr%20German%20Martinez--Ayuso-%234285F4?style=for-the-badge&logo=googlescholar&labelColor=white&link=https%3A%2F%2Fscholar.google.co.uk%2Fcitations%3Fuser%3D1MqmJ0sAAAAJ"> -->
         <img alt="Google scholar" src="https://img.shields.io/badge/Scholar-%234285F4?style=for-the-badge&logo=googlescholar&labelColor=%234285F4&logoColor=white&link=https%3A%2F%2Fscholar.google.co.uk%2Fcitations%3Fuser%3D1MqmJ0sAAAAJ">
