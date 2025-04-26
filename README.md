@@ -2,7 +2,7 @@
 
 
 
-Hello! My name is [Ali Tasbihi](https:www.linkedin.com/in/alitasbihi), and I’m a software developer and R&D engineer at the [Iranian Classification Society (ICS)](https://www.ics.org.ir/). I started in IT, developing backend systems in C# with experience in Windows Services, SQL Server, and networking.
+Hello! My name is [Ali Tasbihi](https://www.linkedin.com/in/alitasbihi/), and I’m a software developer and R&D engineer at the [Iranian Classification Society (ICS)](https://www.ics.org.ir/). I started in IT, developing backend systems in C# with experience in Windows Services, SQL Server, and networking.
 
 Since 2024, I’ve been working in R&D, focusing on research projects that combine Python programming, data analysis, and engineering. I'm passionate about using software to solve real-world industrial problems, especially in simulation and automation.
 ## :construction_worker_man: My resume
